@@ -28,8 +28,8 @@
 #include <stdio.h>
 #include <algorithm>
 #include <vector>
-#include <analyzer/protocol/tcp/TCP.h>
-#include <analyzer/Analyzer.h>
+#include <zeek/analyzer/protocol/tcp/TCP.h>
+#include <zeek/analyzer/Analyzer.h>
 #include <zeek/NetVar.h>
 #include <Typedef.h>
 
