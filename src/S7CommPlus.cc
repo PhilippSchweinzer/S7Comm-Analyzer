@@ -30,7 +30,7 @@
 #include <time.h>
 #include "S7CommPlus.h"
 #include "S7CommPlus_Constants.h"
-#include "Event.h"
+#include <zeek/Event.h>
 #include "events.bif.h"
 #include "types.bif.h"
 

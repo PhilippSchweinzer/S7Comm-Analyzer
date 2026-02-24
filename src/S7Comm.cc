@@ -29,7 +29,7 @@
 #include <sstream>
 #include <time.h>
 #include "S7Comm.h"
-#include "Event.h"
+#include <zeek/Event.h>
 #include "S7Comm_Constants.h"
 #include "events.bif.h"
 #include "types.bif.h"
