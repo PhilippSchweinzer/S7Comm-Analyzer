@@ -30,7 +30,7 @@
 #include <vector>
 #include <analyzer/protocol/tcp/TCP.h>
 #include <analyzer/Analyzer.h>
-#include <NetVar.h>
+#include <zeek/NetVar.h>
 #include <Typedef.h>
 
 
